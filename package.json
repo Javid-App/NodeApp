@@ -8,9 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Javid Mohammad",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.8.4"
   }
 }
